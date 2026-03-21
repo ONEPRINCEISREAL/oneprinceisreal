@@ -56,9 +56,14 @@ I am a DevOps Engineer based in Bhopal, India, with a background in Commerce and
 
 ### 🌐 Connect with Me
 
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://princesinghchauhan.qzz.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=flat-square&logo=googlechrome&logoColor=white" height="25" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" height="25" /></a>
+<a href="https://linkedin.com/in/prince-chauhan-20901930b" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://princesinghchauhan.qzz.io" target="blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 ---
