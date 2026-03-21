@@ -3,15 +3,14 @@
 ### ☁️ Cloud Enthusiast & DevOps Engineer
 **Transforming complex infrastructures into seamless, automated ecosystems.**
 
-I am a dedicated Cloud and DevOps enthusiast with a unique perspective, having pivoted into the tech world from a non-IT background. This journey has fueled my obsession with efficiency—I don't just build systems; I find ways to make them faster, more resilient, and completely hands-off through automation.
+I am a dedicated Cloud and DevOps enthusiast with a unique perspective, having pivoted into the tech world from a non-IT background. This journey has fueled my obsession with efficiency I don't just build systems; I find ways to make them faster, more resilient, and completely hands-off through automation.
 
 * 🔭 **Current Mission:** I am currently deep-diving into the AWS ecosystem, specifically focusing on orchestrating Kubernetes (EKS) clusters and perfecting monitoring stacks with Helm and Grafana.
 * ⚙️ **My Philosophy:** If you have to do it twice, automate it. I thrive on the challenge of building CI/CD pipelines that bridge the gap between code and production.
-* 🚀 **Looking Ahead:** I'm constantly exploring the latest in Infrastructure as Code (Terraform) and Configuration Management to build the future of scalable cloud architecture.
-* 
+* 🚀 **Looking Ahead:** I'm constantly exploring the latest in Infrastructure as Code (Terraform) and Configuration Management to build the future of scalable cloud architecture. 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -32,19 +31,19 @@ I am a dedicated Cloud and DevOps enthusiast with a unique perspective, having p
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ONEPRINCEISREAL&show_icons=true&theme=radical&hide_border=true" alt="Prince's Stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONEPRINCEISREAL&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ONEPRINCEISREAL&theme=react-dark&hide_border=true)
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
