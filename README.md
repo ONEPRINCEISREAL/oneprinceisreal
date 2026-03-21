@@ -1,14 +1,14 @@
 # Hi there, I'm Prince Singh Chauhan 👋
 
-### ☁️ DevOps Engineer | Cloud Enthusiast | 3D Modeler
+### ☁️ Cloud Enthusiast & DevOps Engineer
+**Transforming complex infrastructures into seamless, automated ecosystems.**
 
-I am a DevOps Engineer based in Bhopal, India, with a background in Commerce and a passion for automation. I specialize in building scalable infrastructure and streamlining CI/CD pipelines.
+I am a dedicated Cloud and DevOps enthusiast with a unique perspective, having pivoted into the tech world from a non-IT background. This journey has fueled my obsession with efficiency—I don't just build systems; I find ways to make them faster, more resilient, and completely hands-off through automation.
 
-- 🔭 I’m currently working on **integrating AWS with Kubernetes (EKS), Helm, and Grafana**.
-- 🌱 I’m currently sharpening my skills in **Terraform and Kubernetes**.
-- 🎓 B.Com Graduate (2025) from **The Bhopal School of Social Sciences**.
-- ⚡ Fun fact: I enjoy **3D modeling and animation** when I'm not configuring clusters.
-
+* 🔭 **Current Mission:** I am currently deep-diving into the AWS ecosystem, specifically focusing on orchestrating Kubernetes (EKS) clusters and perfecting monitoring stacks with Helm and Grafana.
+* ⚙️ **My Philosophy:** If you have to do it twice, automate it. I thrive on the challenge of building CI/CD pipelines that bridge the gap between code and production.
+* 🚀 **Looking Ahead:** I'm constantly exploring the latest in Infrastructure as Code (Terraform) and Configuration Management to build the future of scalable cloud architecture.
+* 
 ---
 
 ### 🛠 Tech Stack & Tools
