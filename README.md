@@ -1,6 +1,6 @@
 # Hi there, I'm Prince Singh Chauhan 👋
 
-### ☁️ Cloud Enthusiast & DevOps Engineer
+### DevOps Engineer
 **Transforming complex infrastructures into seamless, automated ecosystems.**
 
 I am a dedicated Cloud and DevOps enthusiast with a unique perspective, having pivoted into the tech world from a non-IT background. This journey has fueled my obsession with efficiency I don't just build systems, I find ways to make them faster, more resilient, and completely hands-off through automation.
